@@ -1,6 +1,6 @@
-\name{rcpp_hello}
-\alias{rcpp_hello}
-\title{Hello, Rcpp!}
+\name{timber_syslog}
+\alias{timber_syslog}
+\title{Timber, Rcpp!}
 \usage{
 rcpp_hello()
 }

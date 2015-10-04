@@ -1,5 +1,5 @@
-\name{hello}
-\alias{hello}
+\name{timber}
+\alias{timber}
 \title{Hello, World!}
 \usage{
 hello()
